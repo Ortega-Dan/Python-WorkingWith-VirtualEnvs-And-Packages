@@ -1,3 +1,3 @@
-import aCallerPackage.acallerfile as caller
+import aCallerPackage.andSubPackage.acallerfile as caller
 
 caller.calltheotherPackage()
