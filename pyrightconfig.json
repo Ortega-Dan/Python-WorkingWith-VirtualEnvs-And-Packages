@@ -1,5 +1,11 @@
 {
     "strict": [
         "**/*.py"
-    ]
+    ],
+    "stubPath": "stubs",
+    "reportUnusedVariable": "warning",
+    "reportUnusedClass": "warning",
+    "reportUnusedExpression": "warning",
+    "reportUnusedFunction": "warning",
+    "reportUnusedImport": "error",
 }
