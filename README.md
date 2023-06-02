@@ -14,7 +14,8 @@ Then install dependencies by running the installDepsScript file.
 Python: Select Interpreter\
 Launch it by doing: Ctrl+Shift+P and typing the mentioned command.
 
+## Matplotlib dependencies
 For matplotlib to render in linux you need:
 ```bash
-sudo apt-get install python3-tk
+sudo apt install python3-tk
 ```
