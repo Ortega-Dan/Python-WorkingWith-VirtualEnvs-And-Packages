@@ -17,6 +17,7 @@ Launch it by doing: Ctrl+Shift+P and typing the mentioned command.
 ## Matplotlib dependencies
 For matplotlib to render in linux you need:
 ```bash
+sudo apt install python3.8-venv
 sudo apt install python3-tk
 sudo apt install qt5-qmake
 ```
@@ -26,6 +27,7 @@ and get the dependencies for the project with:
 pip install --upgrade pip
 pip install matplotlib
 pip install pyqt5
+pip install pandas
 ```
 or just get them from the current requirements.txt file with:
 ```bash
